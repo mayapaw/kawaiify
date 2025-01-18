@@ -1,0 +1,31 @@
+{
+  "name": "kawaiify",
+  "version": "1.0.2",
+  "description": "A delightful CLI tool to help you generate concise and descriptive commit messages using OpenAI",
+  "main": "index.js",
+  "author": "mayapaw",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9"
+  },
+  "keywords": [
+    "git",
+    "commit",
+    "commit-message",
+    "openai",
+    "gpt",
+    "cli",
+    "automation",
+    "kawaii",
+    "kawaiify",
+    "ai",
+    "developer-tools",
+    "git-diff",
+    "commit-helper",
+    "openai-api",
+    "code-suggestions",
+    "productivity",
+    "cute",
+    "git-automation"
+  ]
+}
